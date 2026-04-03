@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_CRYPTO_KMS
+name: alice-crypto-kms
 description: ALICE Crypto KMS
 type: application
 version: 0.1.0
